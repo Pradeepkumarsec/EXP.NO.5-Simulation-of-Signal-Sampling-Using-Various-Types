@@ -1,4 +1,4 @@
-# EXP.NO.5-Simulation-of-Signal-Sampling-Using-Various-Types
+# EXP NO.5-Simulation-of-Signal-Sampling-Using-Various-Types
 5.Simulation of Signal Sampling Using Various Types such as
     i) Ideal Sampling
     ii) Natural Sampling
